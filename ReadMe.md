@@ -218,9 +218,3 @@ OffRoad_Semantic_Scene_Segmentation/
 - Frame-by-frame processing during inference for memory efficiency
 - Per-sample IoU computation enables distribution analysis
 - Conditional IoU calculation excludes absent classes from evaluation
-
-## References
-
-- **DINOv2**: Oquab et al., "DINOv2: Learning Robust Visual Features without Supervision"
-- **Segmentation Models PyTorch**: https://github.com/qubvel/segmentation_models.pytorch
-- **Albumentations**: Fast and flexible image augmentation library
